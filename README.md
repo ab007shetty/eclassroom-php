@@ -1,4 +1,4 @@
-# e-classroom
+# EClassroom - PHP
 A Student-Teacher Portal built using PHP, CSS and JavaScript.
 
 
